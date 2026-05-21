@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "novelName": "重启前夜",
+  "projectPath": "F:\\codes\\codex_code\\Novel\\novel2",
+  "totalChapters": 15,
+  "minWordsPerChapter": 3000,
+  "maxWordsPerChapter": 5000,
+  "createdAt": "2026-05-06T22:14:10+08:00",
+  "updatedAt": "2026-05-06T23:10:00+08:00",
+  "status": "completed",
+  "writingMode": "serial",
+  "output": {
+    "markdownDirectory": "F:\\codes\\codex_code\\Novel\\novel2\\md文档版本",
+    "pdfDirectory": "F:\\codes\\codex_code\\Novel\\novel2\\pdf文档版本",
+    "templateReference": "F:\\codes\\codex_code\\Novel\\novel1现代机甲"
+  },
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "title": "重启倒计时",
+      "filePath": "重启前夜小说第一章.md",
+      "status": "completed",
+      "wordCount": 3253,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 2,
+      "title": "无名者的甲胄",
+      "filePath": "重启前夜小说第二章.md",
+      "status": "completed",
+      "wordCount": 3175,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 3,
+      "title": "旧灾祸名单",
+      "filePath": "重启前夜小说第三章.md",
+      "status": "completed",
+      "wordCount": 3006,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 4,
+      "title": "天轮使徒",
+      "filePath": "重启前夜小说第四章.md",
+      "status": "completed",
+      "wordCount": 3004,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 5,
+      "title": "白寂雪原",
+      "filePath": "重启前夜小说第五章.md",
+      "status": "completed",
+      "wordCount": 3105,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 6,
+      "title": "赤骸之怒",
+      "filePath": "重启前夜小说第六章.md",
+      "status": "completed",
+      "wordCount": 3177,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 7,
+      "title": "星舟坠落",
+      "filePath": "重启前夜小说第七章.md",
+      "status": "completed",
+      "wordCount": 3044,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 8,
+      "title": "镜城审判",
+      "filePath": "重启前夜小说第八章.md",
+      "status": "completed",
+      "wordCount": 3017,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 9,
+      "title": "第零轮遗书",
+      "filePath": "重启前夜小说第九章.md",
+      "status": "completed",
+      "wordCount": 3002,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 10,
+      "title": "照夜的选择",
+      "filePath": "重启前夜小说第十章.md",
+      "status": "completed",
+      "wordCount": 3010,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 11,
+      "title": "被篡改的黎明",
+      "filePath": "重启前夜小说第十一章.md",
+      "status": "completed",
+      "wordCount": 3008,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 12,
+      "title": "重启前夜",
+      "filePath": "重启前夜小说第十二章.md",
+      "status": "completed",
+      "wordCount": 3001,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 13,
+      "title": "天轮门下",
+      "filePath": "重启前夜小说第十三章.md",
+      "status": "completed",
+      "wordCount": 3005,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 14,
+      "title": "选择不是赦免",
+      "filePath": "重启前夜小说第十四章.md",
+      "status": "completed",
+      "wordCount": 3001,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 15,
+      "title": "黎明不归零",
+      "filePath": "重启前夜小说第十五章.md",
+      "status": "completed",
+      "wordCount": 3003,
+      "wordCountPass": true,
+      "retryCount": 0
+    }
+  ]
+}

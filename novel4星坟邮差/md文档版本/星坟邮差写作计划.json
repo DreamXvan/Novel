@@ -1,0 +1,131 @@
+{
+  "version": 1,
+  "novelName": "星坟邮差",
+  "projectPath": "F:\\codes\\codex_code\\novel\\novel4星坟邮差",
+  "totalChapters": 12,
+  "minWordsPerChapter": 1800,
+  "maxWordsPerChapter": 3000,
+  "createdAt": "2026-05-14T00:00:00+08:00",
+  "updatedAt": "2026-05-14T21:26:29+08:00",
+  "status": "completed",
+  "writingMode": "serial",
+  "output": {
+    "markdownDirectory": "F:\\codes\\codex_code\\novel\\novel4星坟邮差\\md文档版本",
+    "pdfDirectory": "F:\\codes\\codex_code\\novel\\novel4星坟邮差\\pdf文档版本",
+    "templateReference": [
+      "F:\\codes\\codex_code\\novel\\novel1现代机甲",
+      "F:\\codes\\codex_code\\novel\\novel2",
+      "F:\\codes\\codex_code\\novel\\novel3霜环回声"
+    ]
+  },
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "title": "死信箱里的未来邮戳",
+      "filePath": "星坟邮差小说第一章.md",
+      "status": "completed",
+      "wordCount": 2711,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 2,
+      "title": "望舒三号没有收件人",
+      "filePath": "星坟邮差小说第二章.md",
+      "status": "completed",
+      "wordCount": 2734,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 3,
+      "title": "氧塔下的孩子",
+      "filePath": "星坟邮差小说第三章.md",
+      "status": "completed",
+      "wordCount": 2360,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 4,
+      "title": "医师的冷眠清单",
+      "filePath": "星坟邮差小说第四章.md",
+      "status": "completed",
+      "wordCount": 2329,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 5,
+      "title": "安全执行官登站",
+      "filePath": "星坟邮差小说第五章.md",
+      "status": "completed",
+      "wordCount": 2268,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 6,
+      "title": "母亲的第一封信",
+      "filePath": "星坟邮差小说第六章.md",
+      "status": "completed",
+      "wordCount": 2250,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 7,
+      "title": "白井在呼吸",
+      "filePath": "星坟邮差小说第七章.md",
+      "status": "completed",
+      "wordCount": 2119,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 8,
+      "title": "被注销的生日",
+      "filePath": "星坟邮差小说第八章.md",
+      "status": "completed",
+      "wordCount": 2133,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 9,
+      "title": "安眠者模型",
+      "filePath": "星坟邮差小说第九章.md",
+      "status": "completed",
+      "wordCount": 2202,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 10,
+      "title": "邮差不得篡改地址",
+      "filePath": "星坟邮差小说第十章.md",
+      "status": "completed",
+      "wordCount": 2276,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 11,
+      "title": "最后一枚邮戳",
+      "filePath": "星坟邮差小说第十一章.md",
+      "status": "completed",
+      "wordCount": 2106,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 12,
+      "title": "星坟有回音",
+      "filePath": "星坟邮差小说第十二章.md",
+      "status": "completed",
+      "wordCount": 2447,
+      "wordCountPass": true,
+      "retryCount": 0
+    }
+  ]
+}

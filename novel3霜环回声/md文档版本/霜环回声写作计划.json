@@ -1,0 +1,130 @@
+{
+  "version": 1,
+  "novelName": "霜环回声",
+  "projectPath": "F:\\codes\\codex_code\\novel\\novel3霜环回声",
+  "totalChapters": 12,
+  "minWordsPerChapter": 1800,
+  "maxWordsPerChapter": 3000,
+  "createdAt": "2026-05-10T22:15:00+08:00",
+  "updatedAt": "2026-05-10T23:20:00+08:00",
+  "status": "completed",
+  "writingMode": "serial",
+  "output": {
+    "markdownDirectory": "F:\\codes\\codex_code\\novel\\novel3霜环回声\\md文档版本",
+    "pdfDirectory": "F:\\codes\\codex_code\\novel\\novel3霜环回声\\pdf文档版本",
+    "templateReference": [
+      "F:\\codes\\codex_code\\novel\\novel1现代机甲",
+      "F:\\codes\\codex_code\\novel\\novel2"
+    ]
+  },
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "title": "深井里的空白警报",
+      "filePath": "霜环回声小说第一章.md",
+      "status": "completed",
+      "wordCount": 2550,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 2,
+      "title": "第七深槽没有人",
+      "filePath": "霜环回声小说第二章.md",
+      "status": "completed",
+      "wordCount": 2574,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 3,
+      "title": "审计师的旧雨衣",
+      "filePath": "霜环回声小说第三章.md",
+      "status": "completed",
+      "wordCount": 2312,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 4,
+      "title": "潮下名单",
+      "filePath": "霜环回声小说第四章.md",
+      "status": "completed",
+      "wordCount": 2416,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 5,
+      "title": "寂潮旧驾驶员",
+      "filePath": "霜环回声小说第五章.md",
+      "status": "completed",
+      "wordCount": 2346,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 6,
+      "title": "蓝湾听证会",
+      "filePath": "霜环回声小说第六章.md",
+      "status": "completed",
+      "wordCount": 1962,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 7,
+      "title": "深水停电三十一分钟",
+      "filePath": "霜环回声小说第七章.md",
+      "status": "completed",
+      "wordCount": 2061,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 8,
+      "title": "霜环校准日",
+      "filePath": "霜环回声小说第八章.md",
+      "status": "completed",
+      "wordCount": 1913,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 9,
+      "title": "被删除的父亲",
+      "filePath": "霜环回声小说第九章.md",
+      "status": "completed",
+      "wordCount": 2092,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 10,
+      "title": "零号泵塔",
+      "filePath": "霜环回声小说第十章.md",
+      "status": "completed",
+      "wordCount": 2652,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 11,
+      "title": "海面之下的黎明",
+      "filePath": "霜环回声小说第十一章.md",
+      "status": "completed",
+      "wordCount": 2075,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 12,
+      "title": "回声不沉",
+      "filePath": "霜环回声小说第十二章.md",
+      "status": "completed",
+      "wordCount": 2682,
+      "wordCountPass": true,
+      "retryCount": 0
+    }
+  ]
+}
