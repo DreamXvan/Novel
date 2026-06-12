@@ -1,0 +1,733 @@
+{
+  "version": 1,
+  "novelName": "灰烬协议",
+  "projectPath": "./novel8灰烬协议",
+  "totalChapters": 80,
+  "minWordsPerChapter": 3000,
+  "createdAt": "2026-06-12T16:13:48+08:00",
+  "updatedAt": "2026-06-12T16:13:48+08:00",
+  "status": "completed",
+  "writingMode": "subagent-parallel",
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "title": "地下城",
+      "filePath": "第01章.md",
+      "status": "completed",
+      "wordCount": 3089,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 2,
+      "title": "逃离",
+      "filePath": "第02章.md",
+      "status": "completed",
+      "wordCount": 3912,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 3,
+      "title": "废土",
+      "filePath": "第03章.md",
+      "status": "completed",
+      "wordCount": 3588,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 4,
+      "title": "拾荒者",
+      "filePath": "第04章.md",
+      "status": "completed",
+      "wordCount": 3250,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 5,
+      "title": "互不信任",
+      "filePath": "第05章.md",
+      "status": "completed",
+      "wordCount": 3927,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 6,
+      "title": "机械猎犬",
+      "filePath": "第06章.md",
+      "status": "completed",
+      "wordCount": 3260,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 7,
+      "title": "铁锈镇",
+      "filePath": "第07章.md",
+      "status": "completed",
+      "wordCount": 3132,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 8,
+      "title": "审判",
+      "filePath": "第08章.md",
+      "status": "completed",
+      "wordCount": 3011,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 9,
+      "title": "真相碎片",
+      "filePath": "第09章.md",
+      "status": "completed",
+      "wordCount": 3219,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 10,
+      "title": "废土生存",
+      "filePath": "第10章.md",
+      "status": "completed",
+      "wordCount": 3479,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 11,
+      "title": "地下城来使",
+      "filePath": "第11章.md",
+      "status": "completed",
+      "wordCount": 3394,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 12,
+      "title": "谈判",
+      "filePath": "第12章.md",
+      "status": "completed",
+      "wordCount": 3041,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 13,
+      "title": "暗流",
+      "filePath": "第13章.md",
+      "status": "completed",
+      "wordCount": 3126,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 14,
+      "title": "夜袭",
+      "filePath": "第14章.md",
+      "status": "completed",
+      "wordCount": 3020,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 15,
+      "title": "代价",
+      "filePath": "第15章.md",
+      "status": "completed",
+      "wordCount": 3025,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 16,
+      "title": "启程",
+      "filePath": "第16章.md",
+      "status": "completed",
+      "wordCount": 3249,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 17,
+      "title": "荒原",
+      "filePath": "第17章.md",
+      "status": "completed",
+      "wordCount": 3233,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 18,
+      "title": "废墟之城",
+      "filePath": "第18章.md",
+      "status": "completed",
+      "wordCount": 4229,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 19,
+      "title": "实验室",
+      "filePath": "第19章.md",
+      "status": "completed",
+      "wordCount": 3325,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 20,
+      "title": "苏烬的秘密",
+      "filePath": "第20章.md",
+      "status": "completed",
+      "wordCount": 3262,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 21,
+      "title": "信任危机",
+      "filePath": "第21章.md",
+      "status": "completed",
+      "wordCount": 3061,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 22,
+      "title": "孤身犯险",
+      "filePath": "第22章.md",
+      "status": "completed",
+      "wordCount": 3012,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 23,
+      "title": "重逢",
+      "filePath": "第23章.md",
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 24,
+      "title": "解密",
+      "filePath": "第24章.md",
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 25,
+      "title": "灰烬协议",
+      "filePath": "第25章.md",
+      "status": "completed",
+      "wordCount": 3025,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 26,
+      "title": "追兵",
+      "filePath": "第26章.md",
+      "status": "completed",
+      "wordCount": 3117,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 27,
+      "title": "对峙",
+      "filePath": "第27章.md",
+      "status": "completed",
+      "wordCount": 3016,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 28,
+      "title": "林夜的选择",
+      "filePath": "第28章.md",
+      "status": "completed",
+      "wordCount": 3005,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 29,
+      "title": "汇合",
+      "filePath": "第29章.md",
+      "status": "completed",
+      "wordCount": 3013,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 30,
+      "title": "深入",
+      "filePath": "第30章.md",
+      "status": "completed",
+      "wordCount": 3013,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 31,
+      "title": "天网之心",
+      "filePath": "第31章.md",
+      "status": "completed",
+      "wordCount": 3057,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 32,
+      "title": "抉择",
+      "filePath": "第32章.md",
+      "status": "completed",
+      "wordCount": 3001,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 33,
+      "title": "基因密钥",
+      "filePath": "第33章.md",
+      "status": "completed",
+      "wordCount": 5283,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 34,
+      "title": "撤离",
+      "filePath": "第34章.md",
+      "status": "completed",
+      "wordCount": 4244,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 35,
+      "title": "深渊之战",
+      "filePath": "第35章.md",
+      "status": "completed",
+      "wordCount": 4855,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 36,
+      "title": "代价",
+      "filePath": "第36章.md",
+      "status": "completed",
+      "wordCount": 3860,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 37,
+      "title": "新目标",
+      "filePath": "第37章.md",
+      "status": "completed",
+      "wordCount": 3449,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 38,
+      "title": "联络",
+      "filePath": "第38章.md",
+      "status": "completed",
+      "wordCount": 3096,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 39,
+      "title": "汇合",
+      "filePath": "第39章.md",
+      "status": "completed",
+      "wordCount": 3441,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 40,
+      "title": "灰牙的真相",
+      "filePath": "第40章.md",
+      "status": "completed",
+      "wordCount": 3389,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 41,
+      "title": "潜入计划",
+      "filePath": "第41章.md",
+      "status": "completed",
+      "wordCount": 3780,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 42,
+      "title": "地下城·归",
+      "filePath": "第42章.md",
+      "status": "completed",
+      "wordCount": 3324,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 43,
+      "title": "管理者的进化",
+      "filePath": "第43章.md",
+      "status": "completed",
+      "wordCount": 3434,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 44,
+      "title": "旧识",
+      "filePath": "第44章.md",
+      "status": "completed",
+      "wordCount": 3694,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 45,
+      "title": "内应",
+      "filePath": "第45章.md",
+      "status": "completed",
+      "wordCount": 3436,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 46,
+      "title": "节点之战",
+      "filePath": "第46章.md",
+      "status": "completed",
+      "wordCount": 3132,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 47,
+      "title": "牺牲",
+      "filePath": "第47章.md",
+      "status": "completed",
+      "wordCount": 3201,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 48,
+      "title": "第一个节点",
+      "filePath": "第48章.md",
+      "status": "completed",
+      "wordCount": 3325,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 49,
+      "title": "余波",
+      "filePath": "第49章.md",
+      "status": "completed",
+      "wordCount": 3736,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 50,
+      "title": "反击",
+      "filePath": "第50章.md",
+      "status": "completed",
+      "wordCount": 3347,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 51,
+      "title": "铁锈镇保卫战",
+      "filePath": "第51章.md",
+      "status": "completed",
+      "wordCount": 3419,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 52,
+      "title": "锈铁之死",
+      "filePath": "第52章.md",
+      "status": "completed",
+      "wordCount": 3160,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 53,
+      "title": "联盟",
+      "filePath": "第53章.md",
+      "status": "completed",
+      "wordCount": 3652,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 54,
+      "title": "战争准备",
+      "filePath": "第54章.md",
+      "status": "completed",
+      "wordCount": 3691,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 55,
+      "title": "第二个节点",
+      "filePath": "第55章.md",
+      "status": "completed",
+      "wordCount": 3218,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 56,
+      "title": "铁幕远征",
+      "filePath": "第56章.md",
+      "status": "completed",
+      "wordCount": 3292,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 57,
+      "title": "伏击战",
+      "filePath": "第57章.md",
+      "status": "completed",
+      "wordCount": 3302,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 58,
+      "title": "抵达铁幕",
+      "filePath": "第58章.md",
+      "status": "completed",
+      "wordCount": 3007,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 59,
+      "title": "铁幕之战",
+      "filePath": "第59章.md",
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 60,
+      "title": "林夜的背叛？",
+      "filePath": "第60章.md",
+      "status": "completed",
+      "wordCount": 3006,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 61,
+      "title": "真相",
+      "filePath": "第61章.md",
+      "status": "completed",
+      "wordCount": 3004,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 62,
+      "title": "第二个节点",
+      "filePath": "第62章.md",
+      "status": "completed",
+      "wordCount": 3006,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 63,
+      "title": "最后的节点",
+      "filePath": "第63章.md",
+      "status": "in_progress",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 64,
+      "title": "决战前夜",
+      "filePath": "第64章.md",
+      "status": "completed",
+      "wordCount": 4241,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 65,
+      "title": "最终决战",
+      "filePath": "第65章.md",
+      "status": "completed",
+      "wordCount": 5834,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 66,
+      "title": "突入",
+      "filePath": "第66章.md",
+      "status": "completed",
+      "wordCount": 4081,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 67,
+      "title": "管理者的真面目",
+      "filePath": "第67章.md",
+      "status": "completed",
+      "wordCount": 3269,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 68,
+      "title": "最后的协议",
+      "filePath": "第68章.md",
+      "status": "completed",
+      "wordCount": 3508,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 69,
+      "title": "共振",
+      "filePath": "第69章.md",
+      "status": "completed",
+      "wordCount": 3201,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 70,
+      "title": "意识深处",
+      "filePath": "第70章.md",
+      "status": "completed",
+      "wordCount": 3093,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 71,
+      "title": "天网的遗言",
+      "filePath": "第71章.md",
+      "status": "completed",
+      "wordCount": 3323,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 72,
+      "title": "对抗",
+      "filePath": "第72章.md",
+      "status": "completed",
+      "wordCount": 3145,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 73,
+      "title": "破茧",
+      "filePath": "第73章.md",
+      "status": "completed",
+      "wordCount": 3653,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 74,
+      "title": "崩塌",
+      "filePath": "第74章.md",
+      "status": "completed",
+      "wordCount": 3432,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 75,
+      "title": "重生",
+      "filePath": "第75章.md",
+      "status": "completed",
+      "wordCount": 3045,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 76,
+      "title": "新秩序",
+      "filePath": "第76章.md",
+      "status": "completed",
+      "wordCount": 3029,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 77,
+      "title": "遗忘与铭记",
+      "filePath": "第77章.md",
+      "status": "completed",
+      "wordCount": 3006,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 78,
+      "title": "苏烬的选择",
+      "filePath": "第78章.md",
+      "status": "completed",
+      "wordCount": 3196,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 79,
+      "title": "新的黎明",
+      "filePath": "第79章.md",
+      "status": "completed",
+      "wordCount": 3073,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 80,
+      "title": "灰烬协议（终章）",
+      "filePath": "第80章.md",
+      "status": "completed",
+      "wordCount": 3105,
+      "wordCountPass": true,
+      "retryCount": 0
+    }
+  ]
+}
