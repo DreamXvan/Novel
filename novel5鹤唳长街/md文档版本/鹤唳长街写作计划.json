@@ -1,0 +1,157 @@
+{
+  "version": 1,
+  "novelName": "鹤唳长街",
+  "projectPath": "F:\\codes\\codex_code\\novel\\novel5鹤唳长街",
+  "totalChapters": 15,
+  "minWordsPerChapter": 3000,
+  "maxWordsPerChapter": 5000,
+  "createdAt": "2026-05-24T21:00:00+08:00",
+  "updatedAt": "2026-05-24T23:30:00+08:00",
+  "status": "completed",
+  "writingMode": "serial",
+  "output": {
+    "markdownDirectory": "F:\\codes\\codex_code\\novel\\novel5鹤唳长街\\md文档版本",
+    "pdfDirectory": "F:\\codes\\codex_code\\novel\\novel5鹤唳长街\\pdf文档版本",
+    "templateReference": [
+      "F:\\codes\\codex_code\\novel\\novel4星坟邮差",
+      "F:\\codes\\codex_code\\novel\\novel3霜环回声"
+    ]
+  },
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "title": "死信库里的白绮来信",
+      "filePath": "鹤唳长街小说第一章.md",
+      "status": "completed",
+      "wordCount": 3512,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 2,
+      "title": "望春三号没有收件人",
+      "filePath": "鹤唳长街小说第二章.md",
+      "status": "completed",
+      "wordCount": 3366,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 3,
+      "title": "戏票上的空席",
+      "filePath": "鹤唳长街小说第三章.md",
+      "status": "completed",
+      "wordCount": 3554,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 4,
+      "title": "鹤唳桥下",
+      "filePath": "鹤唳长街小说第四章.md",
+      "status": "completed",
+      "wordCount": 3012,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 5,
+      "title": "望春园旧灰",
+      "filePath": "鹤唳长街小说第五章.md",
+      "status": "completed",
+      "wordCount": 3037,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 6,
+      "title": "林照晚的药箱",
+      "filePath": "鹤唳长街小说第六章.md",
+      "status": "completed",
+      "wordCount": 3078,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 7,
+      "title": "报馆里的空格",
+      "filePath": "鹤唳长街小说第七章.md",
+      "status": "completed",
+      "wordCount": 3001,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 8,
+      "title": "许临川封口",
+      "filePath": "鹤唳长街小说第八章.md",
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 9,
+      "title": "白绮登台",
+      "filePath": "鹤唳长街小说第九章.md",
+      "status": "completed",
+      "wordCount": 3010,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 10,
+      "title": "延迟投递件",
+      "filePath": "鹤唳长街小说第十章.md",
+      "status": "completed",
+      "wordCount": 3024,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 11,
+      "title": "名册下的人",
+      "filePath": "鹤唳长街小说第十一章.md",
+      "status": "completed",
+      "wordCount": 3085,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 12,
+      "title": "复排《鹤唳长街》",
+      "filePath": "鹤唳长街小说第十二章.md",
+      "status": "completed",
+      "wordCount": 3062,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 13,
+      "title": "名字上报",
+      "filePath": "鹤唳长街小说第十三章.md",
+      "status": "completed",
+      "wordCount": 3121,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 14,
+      "title": "长街分岔",
+      "filePath": "鹤唳长街小说第十四章.md",
+      "status": "completed",
+      "wordCount": 3155,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 15,
+      "title": "鹤唳不止",
+      "filePath": "鹤唳长街小说第十五章.md",
+      "status": "completed",
+      "wordCount": 3066,
+      "wordCountPass": true,
+      "retryCount": 0
+    }
+  ]
+}
